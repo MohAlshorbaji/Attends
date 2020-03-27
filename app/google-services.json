@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "262974927700",
+    "firebase_url": "https://attends-d2029.firebaseio.com",
+    "project_id": "attends-d2029",
+    "storage_bucket": "attends-d2029.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262974927700:android:ed6996de80494f914acec1",
+        "android_client_info": {
+          "package_name": "com.example.attends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262974927700-dmei608noicotikdp3nu33hv7hihh8gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACVCTPF2x3IP70n5eLcStnM_7UPV_go64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262974927700-dmei608noicotikdp3nu33hv7hihh8gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
